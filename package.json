@@ -1,0 +1,13 @@
+{
+  "name": "knola-2",
+  "version": "1.0.0",
+  "private": "true",
+  "author": "abdelmomen1985 <abdelmomen1985@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

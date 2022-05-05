@@ -1,0 +1,26 @@
+{
+  "name": "@knola-2/utils",
+  "version": "0.0.0",
+  "description": "utils for use ",
+  "author": "abdelmomen1985 <abdelmomen1985@gmail.com>",
+  "homepage": "https://github.com/mo2starters/html-hello#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "start": "node lib/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mo2starters/html-hello/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
