@@ -4,6 +4,10 @@
   "private": "true",
   "author": "abdelmomen1985 <abdelmomen1985@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "vite:dev": "npx lerna run dev --scope=@knola-2/viteapp ",
+    "astro:dev": "npx lerna run dev --scope=@knola-2/astro-try "
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   },

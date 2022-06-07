@@ -16,6 +16,10 @@
     "react-dom": "^17.0.2 || ^18.0.0"
   },
   "dependencies": {
-    "@knola-2/utils": "^0.0.0"
+    "@headlessui/react": "^1.6.4",
+    "@heroicons/react": "^1.0.6",
+    "@knola-2/utils": "^0.0.0",
+    "flowbite": "^1.4.7",
+    "flowbite-react": "^0.0.25"
   }
 }
